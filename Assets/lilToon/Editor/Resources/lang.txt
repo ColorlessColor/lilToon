@@ -36,7 +36,7 @@ sBorderRGB	Border (RGB = 1st/2nd/3rd)	範囲 (RGB = 1st/2nd/3rd)	범위 (RGB = 1
 sBlur	Blur	ぼかし	흐리게	模糊	模糊
 sBlurR	Blur (R)	ぼかし (R)	흐리게 (R)	模糊 (R)	模糊 (R)
 sBlurRGB	Blur (RGB = 1st/2nd/3rd)	ぼかし (RGB = 1st/2nd/3rd)	흐리게 (RGB = 1st/2nd/3rd)	模糊 (RGB = 第一/第二/第三)	模糊 (RGB = 1st/2nd/3rd)
-sBlurMask	Blur Mask	ぼかし量マスク	흐림 효과 마스크	模糊噪声	模糊遮罩
+sBlurMask	Blur Mask	ぼかし量マスク	흐림 효과 마스크	模糊蒙版	模糊遮罩
 sAlphaR	Alpha (R)	透明度 (R)	투명도 (R)	透明度 (R)	透明度 (R)
 sMainColorPower	Main Color Power	メインカラーの強度	메인 컬러의 강도	主色强度	主色強度
 sEnableLighting	Enable Lighting	ライトの明るさを反映	라이팅을 적용	启用照明	啟用照明
