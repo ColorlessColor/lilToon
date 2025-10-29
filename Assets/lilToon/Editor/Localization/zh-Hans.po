@@ -6,7 +6,7 @@ msgstr ""
 "Language: zh-Hans\n"
 
 msgid "sLanguageWarning"
-msgstr "翻译可能不准确，长按 Alt 键可显示关键字。"
+msgstr ""
 
 msgid "sEditorMode"
 msgstr "编辑器模式"
