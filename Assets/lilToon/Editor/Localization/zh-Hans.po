@@ -381,13 +381,13 @@ msgid "sCullMode"
 msgstr "Cull Mode (剔除模式)"
 
 msgid "sCullModeOff"
-msgstr "Off (不剔除)"
+msgstr "Off"
 
 msgid "sCullModeFront"
-msgstr "Front (剔除正面)"
+msgstr "Front"
 
 msgid "sCullModeBack"
-msgstr "Back (剔除背面)"
+msgstr "Back"
 
 msgid "sFlipBackfaceNormal"
 msgstr "翻转背面法线"
