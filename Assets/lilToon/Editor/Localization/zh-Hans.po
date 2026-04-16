@@ -462,7 +462,7 @@ msgid "sLightingSettings"
 msgstr "照明设置"
 
 msgid "sVertexLightStrength"
-msgstr "顶点灯强度"
+msgstr "顶点光照强度"
 
 msgid "sLightMinLimit"
 msgstr "亮度下限"
@@ -513,7 +513,7 @@ msgid "sHelpGeometryShader"
 msgstr "由于几何体着色器在 iOS 或 Mac 上不起作用，因此建议将其更改为其他渲染模式。"
 
 msgid "sHelpOnePassVertexLight"
-msgstr "透明模式使用 One Pass 时，建议将顶点灯强度设定为 1.0。"
+msgstr "透明模式使用 One Pass 时，建议将顶点光照强度设定为 1.0。"
 
 msgid "sHelpCullMode"
 msgstr "如果材质看起来不正确，请将 CullMode 设置为 Off 或 Back。"
@@ -1551,7 +1551,7 @@ msgid "sSettingUseForwardAddShadow"
 msgstr "在 ForwardAdd 路径中接收阴影"
 
 msgid "sSettingUseVertexLight"
-msgstr "使用顶点灯"
+msgstr "使用顶点光照"
 
 msgid "sSettingUseLightmap"
 msgstr "使用光照贴图"
